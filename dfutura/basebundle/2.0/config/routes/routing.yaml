@@ -1,0 +1,6 @@
+dfutura_base_controllers:
+    resource: '@DfuturaBaseBundle/Controller/'
+    type: annotation
+
+dfutura_base_resources:
+    resource: 'routing/admin.yml'

@@ -1,0 +1,13 @@
+dfutura_base:
+    google_maps_key: "%GOOGLE_MAPS_KEY%"
+    logo_white: 'bundles/app/images/logo_admin.png'
+    logo_black: 'bundles/app/images/logo_admin.png'
+    locales: "%LOCALES%"
+    default_locale: "%DEFAULT_LOCALE%"
+    multilanguage_routes: false
+    icon_categories:
+        Estática: static
+        Especialidades: specialties
+    templates:
+        menu: "Admin/_menu.html.twig"
+        user_dropdown: "Admin/_user_dropdown.html.twig"

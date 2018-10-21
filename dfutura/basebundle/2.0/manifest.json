@@ -1,0 +1,18 @@
+{
+  "aliases": [
+    "base-bundle", "dfutura-base-bundle"
+  ],
+  "bundles": {
+    "Dfutura\\Bundle\\BaseBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "env": {
+    "TRADEMARK": "Company Name",
+    "GOOGLE_MAPS_KEY": "",
+    "#LOCALES": "es|en",
+    "LOCALES": "es",
+    "DEFAULT_LOCALE": "es"
+  }
+}
