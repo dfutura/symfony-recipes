@@ -1,3 +1,3 @@
 # SymfonyRecipes
 
-Testing symfony private recipes.
+Testing symfony private recipes. yes
